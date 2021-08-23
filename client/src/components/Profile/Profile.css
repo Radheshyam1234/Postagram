@@ -1,0 +1,39 @@
+.profile_page{
+    max-width: 800px;
+    margin:0px auto;
+  
+}
+
+
+.profile_image{
+    height:120px;
+    width:120px;border-radius: 50%;
+}
+.profile_information{
+    display:flex;
+    justify-content:space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+.user_name h6{
+    font-weight: bolder;
+    color:brown;
+}
+.post_follwer_info{
+    display:flex;
+    flex-direction: column;
+  
+    
+    color:darkblue;
+}
+.gallery{
+    display:flex;
+   flex-wrap: wrap;
+    justify-content: space-around;
+}
+.gallery img{
+    width:160px;
+    height:160px;
+   
+   
+}

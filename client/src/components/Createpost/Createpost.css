@@ -1,0 +1,14 @@
+.createpost_form{
+
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.createpost_content{
+    border:1px solid lightgray;
+   padding:20px;
+   max-width:450px;
+}
